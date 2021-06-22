@@ -4,6 +4,8 @@ Programa feito em OpenGL para a disciplina de Processamento Gráfico de 2021.
 
 Autores: Gabriel Ely Konrath, Guilherme Closs Fraga e Felipe Veronezi Peters.
 
+Vídeo sobre: https://youtu.be/Vzbb4kOVcOY
+
 ### Instruções para compilar o programa:
 - Fazer o download ou clone do repositório;
 - Abrir a solução `InstaFilter.sln` (pode ser encontrada dentro da pasta baixada ou clonada `OpenGL-InstaFilter-main/InstaFilter`) no Visual Studio 2019;
